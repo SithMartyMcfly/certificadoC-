@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CertificadoC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652620ef23836d3e2d7e56db89de33b08fb457f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63b199c2b0b477171c9c56cb05f49a053c9ddc7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CertificadoC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CertificadoC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
