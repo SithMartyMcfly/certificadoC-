@@ -1,0 +1,15 @@
+C:\Users\picap\source\repos\CertificadoC#\bin\Debug\net9.0\CertificadoC#.exe
+C:\Users\picap\source\repos\CertificadoC#\bin\Debug\net9.0\CertificadoC#.deps.json
+C:\Users\picap\source\repos\CertificadoC#\bin\Debug\net9.0\CertificadoC#.runtimeconfig.json
+C:\Users\picap\source\repos\CertificadoC#\bin\Debug\net9.0\CertificadoC#.dll
+C:\Users\picap\source\repos\CertificadoC#\bin\Debug\net9.0\CertificadoC#.pdb
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.AssemblyInfo.cs
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.dll
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\refint\CertificadoC#.dll
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.pdb
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.genruntimeconfig.cache
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\ref\CertificadoC#.dll
+C:\Users\picap\source\repos\CertificadoC#\obj\Debug\net9.0\CertificadoC#.sourcelink.json
