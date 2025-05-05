@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\RecorridosForeach\bin\Debug\net8.0\RecorridosForeach.exe
+C:\Users\picap\source\repos\RecorridosForeach\bin\Debug\net8.0\RecorridosForeach.deps.json
+C:\Users\picap\source\repos\RecorridosForeach\bin\Debug\net8.0\RecorridosForeach.runtimeconfig.json
+C:\Users\picap\source\repos\RecorridosForeach\bin\Debug\net8.0\RecorridosForeach.dll
+C:\Users\picap\source\repos\RecorridosForeach\bin\Debug\net8.0\RecorridosForeach.pdb
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\RecorridosForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\RecorridosForeach.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\RecorridosForeach.AssemblyInfo.cs
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\RecorridosForeach.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\RecorridosForeach.dll
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\refint\RecorridosForeach.dll
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\RecorridosForeach.pdb
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\RecorridosForeach.genruntimeconfig.cache
+C:\Users\picap\source\repos\RecorridosForeach\obj\Debug\net8.0\ref\RecorridosForeach.dll
