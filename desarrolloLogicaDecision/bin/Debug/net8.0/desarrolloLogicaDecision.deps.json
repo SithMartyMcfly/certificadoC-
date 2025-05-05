@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desarrolloLogicaDecision/1.0.0": {
+        "runtime": {
+          "desarrolloLogicaDecision.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desarrolloLogicaDecision/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
