@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\bin\Debug\net8.0\DetectareImplementarLlamadaAMetodo.exe
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\bin\Debug\net8.0\DetectareImplementarLlamadaAMetodo.deps.json
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\bin\Debug\net8.0\DetectareImplementarLlamadaAMetodo.runtimeconfig.json
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\bin\Debug\net8.0\DetectareImplementarLlamadaAMetodo.dll
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\bin\Debug\net8.0\DetectareImplementarLlamadaAMetodo.pdb
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\DetectareImplementarLlamadaAMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\DetectareImplementarLlamadaAMetodo.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\DetectareImplementarLlamadaAMetodo.AssemblyInfo.cs
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\DetectareImplementarLlamadaAMetodo.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\DetectareImplementarLlamadaAMetodo.dll
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\refint\DetectareImplementarLlamadaAMetodo.dll
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\DetectareImplementarLlamadaAMetodo.pdb
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\DetectareImplementarLlamadaAMetodo.genruntimeconfig.cache
+C:\Users\picap\source\repos\DetectareImplementarLlamadaAMetodo\obj\Debug\net8.0\ref\DetectareImplementarLlamadaAMetodo.dll
