@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\bin\Debug\net8.0\tasaRenovacionSuscripcion.exe
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\bin\Debug\net8.0\tasaRenovacionSuscripcion.deps.json
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\bin\Debug\net8.0\tasaRenovacionSuscripcion.runtimeconfig.json
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\bin\Debug\net8.0\tasaRenovacionSuscripcion.dll
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\bin\Debug\net8.0\tasaRenovacionSuscripcion.pdb
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\tasaRenovacionSuscripcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\tasaRenovacionSuscripcion.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\tasaRenovacionSuscripcion.AssemblyInfo.cs
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\tasaRenovacionSuscripcion.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\tasaRenovacionSuscripcion.dll
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\refint\tasaRenovacionSuscripcion.dll
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\tasaRenovacionSuscripcion.pdb
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\tasaRenovacionSuscripcion.genruntimeconfig.cache
+C:\Users\picap\source\repos\tasaRenovacionSuscripcion\obj\Debug\net8.0\ref\tasaRenovacionSuscripcion.dll

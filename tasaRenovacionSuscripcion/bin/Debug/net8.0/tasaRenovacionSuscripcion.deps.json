@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tasaRenovacionSuscripcion/1.0.0": {
+        "runtime": {
+          "tasaRenovacionSuscripcion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasaRenovacionSuscripcion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
