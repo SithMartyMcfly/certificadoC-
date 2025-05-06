@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\Proyecto desafio_codigo problematico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\Proyecto desafio_codigo problematico.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\Proyecto desafio_codigo problematico.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\Proyecto desafio_codigo problematico.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\bin\Debug\net8.0\Proyecto desafio_codigo problematico.exe
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\bin\Debug\net8.0\Proyecto desafio_codigo problematico.deps.json
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\bin\Debug\net8.0\Proyecto desafio_codigo problematico.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\bin\Debug\net8.0\Proyecto desafio_codigo problematico.dll
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\bin\Debug\net8.0\Proyecto desafio_codigo problematico.pdb
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\Proyecto desafio_codigo problematico.dll
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\refint\Proyecto desafio_codigo problematico.dll
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\Proyecto desafio_codigo problematico.pdb
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\Proyecto desafio_codigo problematico.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto desafio_codigo problematico\obj\Debug\net8.0\ref\Proyecto desafio_codigo problematico.dll
