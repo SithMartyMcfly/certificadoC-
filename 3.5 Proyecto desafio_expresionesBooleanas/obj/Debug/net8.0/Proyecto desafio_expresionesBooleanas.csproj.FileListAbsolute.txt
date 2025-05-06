@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\bin\Debug\net8.0\Proyecto desafio_expresionesBooleanas.exe
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\bin\Debug\net8.0\Proyecto desafio_expresionesBooleanas.deps.json
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\bin\Debug\net8.0\Proyecto desafio_expresionesBooleanas.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\bin\Debug\net8.0\Proyecto desafio_expresionesBooleanas.dll
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\bin\Debug\net8.0\Proyecto desafio_expresionesBooleanas.pdb
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\Proyecto desafio_expresionesBooleanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\Proyecto desafio_expresionesBooleanas.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\Proyecto desafio_expresionesBooleanas.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\Proyecto desafio_expresionesBooleanas.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\Proyecto desafio_expresionesBooleanas.dll
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\refint\Proyecto desafio_expresionesBooleanas.dll
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\Proyecto desafio_expresionesBooleanas.pdb
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\Proyecto desafio_expresionesBooleanas.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto desafio_expresionesBooleanas\obj\Debug\net8.0\ref\Proyecto desafio_expresionesBooleanas.dll
