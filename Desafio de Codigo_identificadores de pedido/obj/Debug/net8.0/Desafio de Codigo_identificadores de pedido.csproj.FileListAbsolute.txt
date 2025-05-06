@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\bin\Debug\net8.0\Desafio de Codigo_identificadores de pedido.exe
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\bin\Debug\net8.0\Desafio de Codigo_identificadores de pedido.deps.json
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\bin\Debug\net8.0\Desafio de Codigo_identificadores de pedido.runtimeconfig.json
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\bin\Debug\net8.0\Desafio de Codigo_identificadores de pedido.dll
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\bin\Debug\net8.0\Desafio de Codigo_identificadores de pedido.pdb
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\Desafio de Codigo_identificadores de pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\Desafio de Codigo_identificadores de pedido.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\Desafio de Codigo_identificadores de pedido.AssemblyInfo.cs
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\Desafio de Codigo_identificadores de pedido.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\Desafio de Codigo_identificadores de pedido.dll
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\refint\Desafio de Codigo_identificadores de pedido.dll
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\Desafio de Codigo_identificadores de pedido.pdb
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\Desafio de Codigo_identificadores de pedido.genruntimeconfig.cache
+C:\Users\picap\source\repos\Desafio de Codigo_identificadores de pedido\obj\Debug\net8.0\ref\Desafio de Codigo_identificadores de pedido.dll
