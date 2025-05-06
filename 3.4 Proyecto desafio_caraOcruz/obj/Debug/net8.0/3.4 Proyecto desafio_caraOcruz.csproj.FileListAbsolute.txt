@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.AssemblyInfo.cs
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\bin\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.exe
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\bin\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.deps.json
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\bin\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.runtimeconfig.json
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\bin\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.dll
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\bin\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.pdb
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.dll
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\refint\3.4 Proyecto desafio_caraOcruz.dll
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.pdb
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\3.4 Proyecto desafio_caraOcruz.genruntimeconfig.cache
+C:\Users\picap\source\repos\3.4 Proyecto desafio_caraOcruz\obj\Debug\net8.0\ref\3.4 Proyecto desafio_caraOcruz.dll
