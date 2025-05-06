@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto desafío_Switch\bin\Debug\net8.0\Proyecto desafío_Switch.exe
+C:\Users\picap\source\repos\Proyecto desafío_Switch\bin\Debug\net8.0\Proyecto desafío_Switch.deps.json
+C:\Users\picap\source\repos\Proyecto desafío_Switch\bin\Debug\net8.0\Proyecto desafío_Switch.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto desafío_Switch\bin\Debug\net8.0\Proyecto desafío_Switch.dll
+C:\Users\picap\source\repos\Proyecto desafío_Switch\bin\Debug\net8.0\Proyecto desafío_Switch.pdb
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\Proyecto desafío_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\Proyecto desafío_Switch.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\Proyecto desafío_Switch.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\Proyecto desafío_Switch.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\Proyecto desafío_Switch.dll
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\refint\Proyecto desafío_Switch.dll
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\Proyecto desafío_Switch.pdb
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\Proyecto desafío_Switch.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto desafío_Switch\obj\Debug\net8.0\ref\Proyecto desafío_Switch.dll
