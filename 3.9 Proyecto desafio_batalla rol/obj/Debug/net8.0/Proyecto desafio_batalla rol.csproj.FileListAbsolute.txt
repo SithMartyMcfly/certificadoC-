@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\bin\Debug\net8.0\Proyecto desafio_batalla rol.exe
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\bin\Debug\net8.0\Proyecto desafio_batalla rol.deps.json
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\bin\Debug\net8.0\Proyecto desafio_batalla rol.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\bin\Debug\net8.0\Proyecto desafio_batalla rol.dll
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\bin\Debug\net8.0\Proyecto desafio_batalla rol.pdb
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\Proyecto desafio_batalla rol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\Proyecto desafio_batalla rol.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\Proyecto desafio_batalla rol.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\Proyecto desafio_batalla rol.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\Proyecto desafio_batalla rol.dll
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\refint\Proyecto desafio_batalla rol.dll
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\Proyecto desafio_batalla rol.pdb
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\Proyecto desafio_batalla rol.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto desafio_batalla rol\obj\Debug\net8.0\ref\Proyecto desafio_batalla rol.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto desafio_batalla rol/1.0.0": {
+        "runtime": {
+          "Proyecto desafio_batalla rol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto desafio_batalla rol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
