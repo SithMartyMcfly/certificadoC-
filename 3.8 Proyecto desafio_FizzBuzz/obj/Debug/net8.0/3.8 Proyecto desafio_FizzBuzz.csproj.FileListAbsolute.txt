@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\bin\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.exe
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\bin\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.deps.json
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\bin\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.runtimeconfig.json
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\bin\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.dll
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\bin\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.pdb
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.AssemblyInfo.cs
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.dll
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\refint\3.8 Proyecto desafio_FizzBuzz.dll
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.pdb
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\3.8 Proyecto desafio_FizzBuzz.genruntimeconfig.cache
+C:\Users\picap\source\repos\3.8 Proyecto desafio_FizzBuzz\obj\Debug\net8.0\ref\3.8 Proyecto desafio_FizzBuzz.dll
