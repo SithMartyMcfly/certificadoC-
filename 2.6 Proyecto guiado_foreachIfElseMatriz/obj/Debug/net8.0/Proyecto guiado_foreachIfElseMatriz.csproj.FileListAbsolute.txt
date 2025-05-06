@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.exe
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.deps.json
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.dll
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.pdb
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.dll
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\refint\Proyecto guiado_foreachIfElseMatriz.dll
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.pdb
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto guiado_foreachIfElseMatriz.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto guiado_foreachIfElseMatriz\obj\Debug\net8.0\ref\Proyecto guiado_foreachIfElseMatriz.dll
