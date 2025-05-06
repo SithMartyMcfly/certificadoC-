@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.exe
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.deps.json
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.dll
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\bin\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.pdb
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.dll
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\refint\Proyecto desafio_foreachIfElseMatriz.dll
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.pdb
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\Proyecto desafio_foreachIfElseMatriz.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto desafio_foreachIfElseMatriz\obj\Debug\net8.0\ref\Proyecto desafio_foreachIfElseMatriz.dll
