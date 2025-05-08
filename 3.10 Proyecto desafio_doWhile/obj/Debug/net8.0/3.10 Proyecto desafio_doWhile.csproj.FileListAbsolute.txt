@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\bin\Debug\net8.0\3.10 Proyecto desafio_doWhile.exe
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\bin\Debug\net8.0\3.10 Proyecto desafio_doWhile.deps.json
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\bin\Debug\net8.0\3.10 Proyecto desafio_doWhile.runtimeconfig.json
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\bin\Debug\net8.0\3.10 Proyecto desafio_doWhile.dll
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\bin\Debug\net8.0\3.10 Proyecto desafio_doWhile.pdb
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\3.10 Proyecto desafio_doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\3.10 Proyecto desafio_doWhile.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\3.10 Proyecto desafio_doWhile.AssemblyInfo.cs
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\3.10 Proyecto desafio_doWhile.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\3.10 Proyecto desafio_doWhile.dll
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\refint\3.10 Proyecto desafio_doWhile.dll
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\3.10 Proyecto desafio_doWhile.pdb
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\3.10 Proyecto desafio_doWhile.genruntimeconfig.cache
+C:\Users\picap\source\repos\3.10 Proyecto desafio_doWhile\obj\Debug\net8.0\ref\3.10 Proyecto desafio_doWhile.dll
