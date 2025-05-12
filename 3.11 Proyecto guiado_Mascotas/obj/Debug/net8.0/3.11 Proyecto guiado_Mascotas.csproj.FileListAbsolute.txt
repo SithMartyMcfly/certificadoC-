@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\bin\Debug\net8.0\3.11 Proyecto guiado_Mascotas.exe
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\bin\Debug\net8.0\3.11 Proyecto guiado_Mascotas.deps.json
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\bin\Debug\net8.0\3.11 Proyecto guiado_Mascotas.runtimeconfig.json
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\bin\Debug\net8.0\3.11 Proyecto guiado_Mascotas.dll
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\bin\Debug\net8.0\3.11 Proyecto guiado_Mascotas.pdb
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\3.11 Proyecto guiado_Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\3.11 Proyecto guiado_Mascotas.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\3.11 Proyecto guiado_Mascotas.AssemblyInfo.cs
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\3.11 Proyecto guiado_Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\3.11 Proyecto guiado_Mascotas.dll
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\refint\3.11 Proyecto guiado_Mascotas.dll
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\3.11 Proyecto guiado_Mascotas.pdb
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\3.11 Proyecto guiado_Mascotas.genruntimeconfig.cache
+C:\Users\picap\source\repos\3.11 Proyecto guiado_Mascotas\obj\Debug\net8.0\ref\3.11 Proyecto guiado_Mascotas.dll
