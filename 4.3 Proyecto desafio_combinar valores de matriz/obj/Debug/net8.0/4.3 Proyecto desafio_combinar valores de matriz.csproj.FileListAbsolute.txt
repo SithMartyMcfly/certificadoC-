@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\bin\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.exe
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\bin\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.deps.json
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\bin\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.runtimeconfig.json
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\bin\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.dll
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\bin\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.pdb
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.AssemblyInfo.cs
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.dll
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\refint\4.3 Proyecto desafio_combinar valores de matriz.dll
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.pdb
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\4.3 Proyecto desafio_combinar valores de matriz.genruntimeconfig.cache
+C:\Users\picap\source\repos\4.3 Proyecto desafio_combinar valores de matriz\obj\Debug\net8.0\ref\4.3 Proyecto desafio_combinar valores de matriz.dll
