@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto desafio_nose/1.0.0": {
+        "runtime": {
+          "Proyecto desafio_nose.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto desafio_nose/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

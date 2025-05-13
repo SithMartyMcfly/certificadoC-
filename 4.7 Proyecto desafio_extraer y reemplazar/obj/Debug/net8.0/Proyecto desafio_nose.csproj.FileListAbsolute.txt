@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto desafio_nose\bin\Debug\net8.0\Proyecto desafio_nose.exe
+C:\Users\picap\source\repos\Proyecto desafio_nose\bin\Debug\net8.0\Proyecto desafio_nose.deps.json
+C:\Users\picap\source\repos\Proyecto desafio_nose\bin\Debug\net8.0\Proyecto desafio_nose.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto desafio_nose\bin\Debug\net8.0\Proyecto desafio_nose.dll
+C:\Users\picap\source\repos\Proyecto desafio_nose\bin\Debug\net8.0\Proyecto desafio_nose.pdb
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\Proyecto desafio_nose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\Proyecto desafio_nose.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\Proyecto desafio_nose.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\Proyecto desafio_nose.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\Proyecto desafio_nose.dll
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\refint\Proyecto desafio_nose.dll
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\Proyecto desafio_nose.pdb
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\Proyecto desafio_nose.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto desafio_nose\obj\Debug\net8.0\ref\Proyecto desafio_nose.dll
