@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\bin\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.exe
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\bin\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.deps.json
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\bin\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.runtimeconfig.json
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\bin\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.dll
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\bin\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.pdb
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.AssemblyInfo.cs
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.dll
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\refint\4.5 Proyecto desafio_invertir cada palabra.dll
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.pdb
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\4.5 Proyecto desafio_invertir cada palabra.genruntimeconfig.cache
+C:\Users\picap\source\repos\4.5 Proyecto desafio_invertir cada palabra\obj\Debug\net8.0\ref\4.5 Proyecto desafio_invertir cada palabra.dll
