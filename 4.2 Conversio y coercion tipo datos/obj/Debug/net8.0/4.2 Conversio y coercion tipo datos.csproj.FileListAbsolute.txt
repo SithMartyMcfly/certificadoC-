@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\4.2 Conversio y coercion tipo datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\4.2 Conversio y coercion tipo datos.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\4.2 Conversio y coercion tipo datos.AssemblyInfo.cs
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\4.2 Conversio y coercion tipo datos.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\bin\Debug\net8.0\4.2 Conversio y coercion tipo datos.exe
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\bin\Debug\net8.0\4.2 Conversio y coercion tipo datos.deps.json
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\bin\Debug\net8.0\4.2 Conversio y coercion tipo datos.runtimeconfig.json
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\bin\Debug\net8.0\4.2 Conversio y coercion tipo datos.dll
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\bin\Debug\net8.0\4.2 Conversio y coercion tipo datos.pdb
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\4.2 Conversio y coercion tipo datos.dll
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\refint\4.2 Conversio y coercion tipo datos.dll
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\4.2 Conversio y coercion tipo datos.pdb
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\4.2 Conversio y coercion tipo datos.genruntimeconfig.cache
+C:\Users\picap\source\repos\4.2 Conversio y coercion tipo datos\obj\Debug\net8.0\ref\4.2 Conversio y coercion tipo datos.dll
