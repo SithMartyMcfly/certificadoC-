@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\bin\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.exe
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\bin\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.deps.json
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\bin\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.runtimeconfig.json
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\bin\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.dll
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\bin\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.pdb
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.AssemblyInfo.cs
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.dll
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\refint\Proyecto desafio_operaciones diferentes tipos.dll
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.pdb
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\Proyecto desafio_operaciones diferentes tipos.genruntimeconfig.cache
+C:\Users\picap\source\repos\Proyecto desafio_operaciones diferentes tipos\obj\Debug\net8.0\ref\Proyecto desafio_operaciones diferentes tipos.dll
