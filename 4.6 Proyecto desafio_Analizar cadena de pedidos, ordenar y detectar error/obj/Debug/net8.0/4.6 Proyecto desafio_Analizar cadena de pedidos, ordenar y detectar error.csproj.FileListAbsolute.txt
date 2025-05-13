@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\bin\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.exe
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\bin\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.deps.json
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\bin\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.runtimeconfig.json
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\bin\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.dll
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\bin\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.pdb
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.AssemblyInfo.cs
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.dll
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\refint\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.dll
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.pdb
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.genruntimeconfig.cache
+C:\Users\picap\source\repos\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error\obj\Debug\net8.0\ref\4.6 Proyecto desafio_Analizar cadena de pedidos, ordenar y detectar error.dll
