@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\bin\Debug\net8.0\4.1 Deteccion tipo de datos.exe
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\bin\Debug\net8.0\4.1 Deteccion tipo de datos.deps.json
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\bin\Debug\net8.0\4.1 Deteccion tipo de datos.runtimeconfig.json
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\bin\Debug\net8.0\4.1 Deteccion tipo de datos.dll
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\bin\Debug\net8.0\4.1 Deteccion tipo de datos.pdb
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\4.1 Deteccion tipo de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\4.1 Deteccion tipo de datos.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\4.1 Deteccion tipo de datos.AssemblyInfo.cs
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\4.1 Deteccion tipo de datos.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\4.1 Deteccion tipo de datos.dll
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\refint\4.1 Deteccion tipo de datos.dll
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\4.1 Deteccion tipo de datos.pdb
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\4.1 Deteccion tipo de datos.genruntimeconfig.cache
+C:\Users\picap\source\repos\4.1 Deteccion tipo de datos\obj\Debug\net8.0\ref\4.1 Deteccion tipo de datos.dll
