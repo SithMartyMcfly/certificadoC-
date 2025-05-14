@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\5.1 Validación IpV4\bin\Debug\net8.0\5.1 Validación IpV4.exe
+C:\Users\picap\source\repos\5.1 Validación IpV4\bin\Debug\net8.0\5.1 Validación IpV4.deps.json
+C:\Users\picap\source\repos\5.1 Validación IpV4\bin\Debug\net8.0\5.1 Validación IpV4.runtimeconfig.json
+C:\Users\picap\source\repos\5.1 Validación IpV4\bin\Debug\net8.0\5.1 Validación IpV4.dll
+C:\Users\picap\source\repos\5.1 Validación IpV4\bin\Debug\net8.0\5.1 Validación IpV4.pdb
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\5.1 Validación IpV4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\5.1 Validación IpV4.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\5.1 Validación IpV4.AssemblyInfo.cs
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\5.1 Validación IpV4.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\5.1 Validación IpV4.dll
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\refint\5.1 Validación IpV4.dll
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\5.1 Validación IpV4.pdb
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\5.1 Validación IpV4.genruntimeconfig.cache
+C:\Users\picap\source\repos\5.1 Validación IpV4\obj\Debug\net8.0\ref\5.1 Validación IpV4.dll
