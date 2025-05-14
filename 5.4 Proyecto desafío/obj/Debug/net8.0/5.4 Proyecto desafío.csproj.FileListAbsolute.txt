@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\5.4 Proyecto desafío\bin\Debug\net8.0\5.4 Proyecto desafío.exe
+C:\Users\picap\source\repos\5.4 Proyecto desafío\bin\Debug\net8.0\5.4 Proyecto desafío.deps.json
+C:\Users\picap\source\repos\5.4 Proyecto desafío\bin\Debug\net8.0\5.4 Proyecto desafío.runtimeconfig.json
+C:\Users\picap\source\repos\5.4 Proyecto desafío\bin\Debug\net8.0\5.4 Proyecto desafío.dll
+C:\Users\picap\source\repos\5.4 Proyecto desafío\bin\Debug\net8.0\5.4 Proyecto desafío.pdb
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\5.4 Proyecto desafío.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\5.4 Proyecto desafío.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\5.4 Proyecto desafío.AssemblyInfo.cs
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\5.4 Proyecto desafío.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\5.4 Proyecto desafío.dll
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\refint\5.4 Proyecto desafío.dll
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\5.4 Proyecto desafío.pdb
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\5.4 Proyecto desafío.genruntimeconfig.cache
+C:\Users\picap\source\repos\5.4 Proyecto desafío\obj\Debug\net8.0\ref\5.4 Proyecto desafío.dll
