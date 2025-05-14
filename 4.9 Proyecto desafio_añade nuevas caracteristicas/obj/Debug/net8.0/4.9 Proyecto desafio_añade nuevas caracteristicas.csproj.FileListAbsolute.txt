@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\bin\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.exe
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\bin\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.deps.json
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\bin\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.runtimeconfig.json
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\bin\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.dll
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\bin\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.pdb
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.AssemblyInfo.cs
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.dll
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\refint\4.9 Proyecto desafio_añade nuevas caracteristicas.dll
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.pdb
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\4.9 Proyecto desafio_añade nuevas caracteristicas.genruntimeconfig.cache
+C:\Users\picap\source\repos\4.9 Proyecto desafio_añade nuevas caracteristicas\obj\Debug\net8.0\ref\4.9 Proyecto desafio_añade nuevas caracteristicas.dll
