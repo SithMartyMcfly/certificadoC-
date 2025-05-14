@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\bin\Debug\net8.0\4.8 Proyecto guiado_datos variables.exe
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\bin\Debug\net8.0\4.8 Proyecto guiado_datos variables.deps.json
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\bin\Debug\net8.0\4.8 Proyecto guiado_datos variables.runtimeconfig.json
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\bin\Debug\net8.0\4.8 Proyecto guiado_datos variables.dll
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\bin\Debug\net8.0\4.8 Proyecto guiado_datos variables.pdb
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\4.8 Proyecto guiado_datos variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\4.8 Proyecto guiado_datos variables.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\4.8 Proyecto guiado_datos variables.AssemblyInfo.cs
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\4.8 Proyecto guiado_datos variables.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\4.8 Proyecto guiado_datos variables.dll
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\refint\4.8 Proyecto guiado_datos variables.dll
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\4.8 Proyecto guiado_datos variables.pdb
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\4.8 Proyecto guiado_datos variables.genruntimeconfig.cache
+C:\Users\picap\source\repos\4.8 Proyecto guiado_datos variables\obj\Debug\net8.0\ref\4.8 Proyecto guiado_datos variables.dll
