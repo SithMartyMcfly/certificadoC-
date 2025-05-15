@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\5.5 Proyecto guiado\bin\Debug\net8.0\5.5 Proyecto guiado.exe
+C:\Users\picap\source\repos\5.5 Proyecto guiado\bin\Debug\net8.0\5.5 Proyecto guiado.deps.json
+C:\Users\picap\source\repos\5.5 Proyecto guiado\bin\Debug\net8.0\5.5 Proyecto guiado.runtimeconfig.json
+C:\Users\picap\source\repos\5.5 Proyecto guiado\bin\Debug\net8.0\5.5 Proyecto guiado.dll
+C:\Users\picap\source\repos\5.5 Proyecto guiado\bin\Debug\net8.0\5.5 Proyecto guiado.pdb
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\5.5 Proyecto guiado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\5.5 Proyecto guiado.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\5.5 Proyecto guiado.AssemblyInfo.cs
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\5.5 Proyecto guiado.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\5.5 Proyecto guiado.dll
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\refint\5.5 Proyecto guiado.dll
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\5.5 Proyecto guiado.pdb
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\5.5 Proyecto guiado.genruntimeconfig.cache
+C:\Users\picap\source\repos\5.5 Proyecto guiado\obj\Debug\net8.0\ref\5.5 Proyecto guiado.dll
