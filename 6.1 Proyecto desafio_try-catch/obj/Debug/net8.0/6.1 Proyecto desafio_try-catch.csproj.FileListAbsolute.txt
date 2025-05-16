@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\bin\Debug\net8.0\6.1 Proyecto desafio_try-catch.exe
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\bin\Debug\net8.0\6.1 Proyecto desafio_try-catch.deps.json
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\bin\Debug\net8.0\6.1 Proyecto desafio_try-catch.runtimeconfig.json
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\bin\Debug\net8.0\6.1 Proyecto desafio_try-catch.dll
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\bin\Debug\net8.0\6.1 Proyecto desafio_try-catch.pdb
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\6.1 Proyecto desafio_try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\6.1 Proyecto desafio_try-catch.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\6.1 Proyecto desafio_try-catch.AssemblyInfo.cs
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\6.1 Proyecto desafio_try-catch.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\6.1 Proyecto desafio_try-catch.dll
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\refint\6.1 Proyecto desafio_try-catch.dll
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\6.1 Proyecto desafio_try-catch.pdb
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\6.1 Proyecto desafio_try-catch.genruntimeconfig.cache
+C:\Users\picap\source\repos\6.1 Proyecto desafio_try-catch\obj\Debug\net8.0\ref\6.1 Proyecto desafio_try-catch.dll
