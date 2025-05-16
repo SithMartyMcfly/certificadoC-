@@ -1,0 +1,14 @@
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\bin\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.exe
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\bin\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.deps.json
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\bin\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.runtimeconfig.json
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\bin\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.dll
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\bin\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.pdb
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.AssemblyInfoInputs.cache
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.AssemblyInfo.cs
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.dll
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\refint\6.2 Proyecto desafio_excepciones especificas.dll
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.pdb
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\6.2 Proyecto desafio_excepciones especificas.genruntimeconfig.cache
+C:\Users\picap\source\repos\6.2 Proyecto desafio_excepciones especificas\obj\Debug\net8.0\ref\6.2 Proyecto desafio_excepciones especificas.dll
