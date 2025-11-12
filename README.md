@@ -1,1 +1,1 @@
-Curso realizao en la plataforma FreeCodeCamp con certificación Foundational C#
+Curso realizado en la plataforma FreeCodeCamp con certificación Foundational C#
